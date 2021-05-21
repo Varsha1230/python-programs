@@ -16,6 +16,6 @@ c = [45, "Harry", False, 6.9]
 print(c)
 
 #list slicing----------------------------
-friends=["Harry", "Tom", "Rohan", "Sam", "Divya", 45]
+friends=["Harry", "Tom", "Rohan", "Sam", "Divya", 45, "Panda is moron girl :)" ,'Jd is gadha']
 print(friends[0:4])
 print(friends[-4:])  #means--[-4:-1]
